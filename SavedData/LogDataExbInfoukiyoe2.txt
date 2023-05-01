@@ -1,0 +1,4 @@
+#title=aaa
+#scale=6,2.5,3
+#color1=43,21,17
+#color2=255,236,131
