@@ -3,4 +3,4 @@ id	data	x	y	z	theta	size	parent	uniqueCode
 3	Images/Samurai Japan raw/101.jpg,Wooden_thin2	1.8	2	-1.16	0,16.79595,0	1	4	27
 4	Images/Samurai Japan raw/102.jpg,Wooden_thin2	1.66	2	10.03	0,15.17054,0	1	4	28
 5	Images/Samurai Japan raw/103.jpg,Wooden_thin2	-4.179997	1.5	5.049998	0,16.25415,0	1	4	29
-7	MyModels/katana/scene.obj	-0.5399999	7.5	1.32	0.7999995,0,0	6	7	33
+7	MyModels/katana.zip	-0.5399999	7.5	1.32	0.7999995,0,0	6	7	33
